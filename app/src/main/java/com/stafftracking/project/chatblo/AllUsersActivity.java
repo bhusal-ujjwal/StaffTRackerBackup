@@ -88,7 +88,7 @@ public class AllUsersActivity extends AppCompatActivity {
             status.setText(statis);
         }
 
-
+/*shdksdkjs*/
         public void setImage(String image,Context ctx) {
             CircleImageView images=mview.findViewById(R.id.user_single_image);
             Picasso.with(ctx).load(image).into(images);
