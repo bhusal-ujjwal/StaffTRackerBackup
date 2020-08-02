@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "184221241696",
+    "firebase_url": "https://chatblo-57908.firebaseio.com",
+    "project_id": "chatblo-57908",
+    "storage_bucket": "chatblo-57908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184221241696:android:7145e1ae55f3700865ce05",
+        "android_client_info": {
+          "package_name": "com.social.joanlouji.chatblo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184221241696-g64mqi4i9rsusl58t2o3il87lrron7t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.social.joanlouji.chatblo",
+            "certificate_hash": "f3e98af3bfcfd62ee34b5a847cbdd88ba0834245"
+          }
+        },
+        {
+          "client_id": "184221241696-hpv0nno75d0l4h9b7n86h5ufglnv2vhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyD9D8ZtZHfCSf6JJuyKucL8MQ2yra354"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184221241696-hpv0nno75d0l4h9b7n86h5ufglnv2vhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184221241696:android:2b63f6464e0fcbbd65ce05",
+        "android_client_info": {
+          "package_name": "com.stafftracking.project.chatblo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184221241696-b6uo8aipi79j2l35m54s35b6d5djpu4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stafftracking.project.chatblo",
+            "certificate_hash": "f3e98af3bfcfd62ee34b5a847cbdd88ba0834245"
+          }
+        },
+        {
+          "client_id": "184221241696-hpv0nno75d0l4h9b7n86h5ufglnv2vhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyD9D8ZtZHfCSf6JJuyKucL8MQ2yra354"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184221241696-hpv0nno75d0l4h9b7n86h5ufglnv2vhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashscreen.PNG.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable\\splashscreen.PNG"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_default_avatar.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\default_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_notification.jpg.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\notification.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chatblo.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\chatblo.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logout.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_roundbutton.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\roundbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_layout.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\app_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_password.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_profile.jpg.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_custom_bar.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\chat_custom_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_status.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_request.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_users_single_layout.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\users_single_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_allstaff.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\allstaff.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_send_black_24dp.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chat.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\drawable-v24\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_single_layout.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\message_single_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_and_change_password.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_forget_and_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_friends.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_users.xml.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\layout\\activity_all_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ujjwa\\Desktop\\project\\StaffLog\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
