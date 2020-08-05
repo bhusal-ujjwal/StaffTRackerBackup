@@ -61,7 +61,7 @@ public class DashboardActivity extends AppCompatActivity {
         paswordicon.setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View view) {
 
-                //startActivity(new Intent(getApplicationContext(), SettingsActivity.class).putExtra("Mode", 0));
+
 
             }
         });
