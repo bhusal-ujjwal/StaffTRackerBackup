@@ -3,11 +3,6 @@ package com.social.joanlouji.chatblo;
 import android.app.Application;
 import android.content.Context;
 
-/**
- * Created by chill_group
- * agile computing project android Devlopment
- */
-
 public class GetTimeAgo extends Application{
 
     /*
