@@ -1,17 +1,17 @@
 package com.stafftracking.project.chatblo;
-
 import androidx.test.rule.ActivityTestRule;
+
+//import com.stafftracking.project.chatblo.RegisterActivity;
 
 import org.junit.Rule;
 import org.junit.Test;
+//import
 
-import static androidx.test.espresso.Espresso.onView;
 import static androidx.test.espresso.action.ViewActions.click;
 import static androidx.test.espresso.action.ViewActions.closeSoftKeyboard;
 import static androidx.test.espresso.action.ViewActions.typeText;
+import static androidx.test.espresso.Espresso.onView;
 import static androidx.test.espresso.matcher.ViewMatchers.withId;
-
-//import com.stafftracking.project.chatblo.RegisterActivity;
 
 public class RegisterValidationTest {
     @Rule
