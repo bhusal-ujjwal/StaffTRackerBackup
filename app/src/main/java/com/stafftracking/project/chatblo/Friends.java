@@ -1,8 +1,5 @@
 package com.social.joanlouji.chatblo;
-/**
- * Created by chill_group
- * agile computing project android Devlopment
- */
+
 public class Friends {
 
     public String date;
