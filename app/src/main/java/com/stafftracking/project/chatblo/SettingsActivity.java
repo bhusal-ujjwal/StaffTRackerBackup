@@ -56,10 +56,7 @@ import java.util.Random;
 import androidx.core.app.ActivityCompat;
 import de.hdodenhof.circleimageview.CircleImageView;
 import id.zelory.compressor.Compressor;
-/**
- * Created by chill_group
- * agile computing project android Devlopment
- */
+
 public class SettingsActivity extends AppCompatActivity implements OnMapReadyCallback {
     //map profile
     private GoogleMap mMap;
