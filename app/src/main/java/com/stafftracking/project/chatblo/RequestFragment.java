@@ -27,13 +27,7 @@ import com.squareup.picasso.Picasso;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
-/**
- * Created by chill_group
- * agile computing project android Devlopment
- */
-/**
- * A simple {@link Fragment} subclass.
- */
+
 public class RequestFragment extends androidx.fragment.app.Fragment {
 
     private RecyclerView mFriendsList;
