@@ -57,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pro2/StaffTracker-Testing" />
     <property name="project.structure.last.edited" value="Suggestions" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -424,9 +424,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1596515023929" />
-    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1596517024060">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="458" y="125" key="FileChooserDialogImpl" timestamp="1597895014588">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="458" y="125" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597895014588" />
     <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596517024060" />
     <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1597837253361">
       <screen x="0" y="0" width="1280" height="680" />
