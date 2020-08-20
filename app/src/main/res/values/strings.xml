@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Staff tracking system</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT?</string>
+    <string name="display_name">staff full name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="default_status">I am working</string>
+    <string name="default_email">admin@mail.com</string>
+    <string name="default_phone">+9779800000000</string>
+
+    <string name="msg_email_error">Enter Correct EMail</string>
+    <string name="msg_password_error">Enter Strong Password</string>
+
+
+</resources>
